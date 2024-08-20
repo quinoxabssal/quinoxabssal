@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello, quinox is here
 
 <!--
 **quinoxabssal/quinoxabssal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
